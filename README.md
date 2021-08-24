@@ -49,6 +49,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 · Dia 20:
 
 · Dia 21: 
+
 · Dia 22: 
 
 · Dia 23: 
