@@ -1,4 +1,4 @@
-# 100DaysOfCodingChallenge
+# 100DaysOfCodeChallenge
 A challenge suggested by FreeCodeCamp to develop something for the next 100 days. Wish me good luck c:
 
 I have to force myself to code every day, at least one hour, until the end of the year. I will documentate here every project that I'm working on!
@@ -81,7 +81,6 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 · Dia 36: 
 
 · Dia 37:
-
 
 · Dia 38: 
 
@@ -176,7 +175,6 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 · Dia 83: 
 
 · Dia 84: 
-
 
 · Dia 85: 
 
