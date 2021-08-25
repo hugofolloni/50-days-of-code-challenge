@@ -6,7 +6,7 @@ I have to force myself to code every day, at least one hour, until the end of th
 PS: sometimes I will report this in english, sometimes in portuguese (depends on my mood at the day hahah)
 ## Days:
 
-· Dia 0: 
+· Dia 0: [001 - Collatz + Cypher](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
 
 · Dia 1: 
 
