@@ -6,9 +6,9 @@ I have to force myself to code every day, at least one hour, until the end of th
 PS: sometimes I will report this in english, sometimes in portuguese (depends on my mood at the day hahah)
 ## Days:
 
-· Dia 0: [001 - Collatz + Cypher](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
+· Dia 0: [000 - Collatz + Cypher](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/000)
 
-· Dia 1: 
+· Dia 1: [001 - Início do Bot Twitter](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
 
 · Dia 2: 
 
