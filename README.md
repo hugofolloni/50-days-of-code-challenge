@@ -10,7 +10,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 1: [001 - Início do Bot Twitter](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
 
-· Dia 2: 
+· Dia 2: [002 - Integração do Bot com Crawler](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
 
 · Dia 3: 
 
