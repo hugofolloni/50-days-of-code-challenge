@@ -7,7 +7,7 @@ const getReadMe = async () => {
     if(i < 10){
         stringDate = "00" + i;
     }
-    else if (i > 10){
+    else if (i >= 10){
         stringDate = "0" + i;
     }
     i++;
