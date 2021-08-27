@@ -12,7 +12,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 2: [002 - Integração do Bot com Crawler](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/002)
 
-· Dia 3: [003 - Collatz + Cypher](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/003)
+· Dia 3: [003 - Cálculo de Pi](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/003)
 
 · Dia 4: 
 
