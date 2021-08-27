@@ -20,10 +20,10 @@ def piFinder(dots):
 for runs in range(10):
     piFinder(dots)
 
-print("Now we gonna make a deal. You have to decide how many numbers will be created.\nRemember: larger numbers can give more precision, but we'll be more slow.")
+print("\nNow we gonna make a deal. You have to decide how many numbers will be created.\nRemember: larger numbers can give more precision, but we'll be more slow.")
 
 def userDecides():
-    dots = int(input("Tell me the amount of numbers that you want to create to know if it is inside the circle: "))
+    dots = int(input("\nTell me the amount of numbers that you want to create to know if it is inside the circle: "))
     piFinder(dots)
     tryAgain()
 
