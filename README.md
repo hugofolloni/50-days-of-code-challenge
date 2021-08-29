@@ -16,7 +16,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 4: [004 - Bot para página de Wikipédia](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/004)
 
-· Dia 5: 
+· Dia 5: [005 - Gerador de Senhas super-fortes](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/005) 
 
 · Dia 6: 
 
