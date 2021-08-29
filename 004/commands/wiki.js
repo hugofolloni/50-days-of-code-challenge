@@ -47,7 +47,7 @@ const execute = async (message) => {
 
         var pageURL = `https://pt.wikipedia.org/wiki/${pageLink}`
 
-        message.reply(`o resumo do seu tópico aleatório ${pageHeading} é: \n\n${stringText}\n\n ||${pageURL}||`)
+        message.reply(`o resumo do seu tópico ${pageHeading} é: \n\n${stringText}\n\n ||${pageURL}||`)
 
     } catch (error) {
         throw error;
