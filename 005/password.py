@@ -68,7 +68,10 @@ if createModus == 'words':
     newString = ""
     for pos in range(0, len(requestedWords)):
         randomNumber = random.randint(0, 9)
-        indexOfChar = lettersArray.index(rWArray[pos])
+        if lettersArray.index(rWArray[pos]) <= 25:
+            indexOfChar = lettersArray.index(rWArray[pos])
+        elif lettersArray.index(rWArray[pos]) > 25:
+            indexOfChar = lettersArray.index(rWArray[pos]) - 26
         if indexOfChar == 52 or randomNumber <= 4:
             newString = lastString + leetLetters[indexOfChar]
         elif randomNumber >= 5: 
@@ -76,6 +79,8 @@ if createModus == 'words':
         lastString = newString
 
     print(newString)
+
+    print(lettersArray.index('z'))
 
     copyFunction()
 
