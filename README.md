@@ -18,7 +18,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 5: [005 - Gerador de Senhas super-fortes](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/005) 
 
-· Dia 6: 
+· Dia 6: [006 - POC do GanhosFuturos](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/006) 
 
 · Dia 7:
 
