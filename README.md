@@ -14,13 +14,13 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 3: [003 - Cálculo de Pi](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/003)
 
-· Dia 4: [004 - Bot para página de Wikipédia](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/004)
+· Dia 4: [004 - Bot da Wikipédia](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/004)
 
-· Dia 5: [005 - Gerador de Senhas super-fortes](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/005) 
+· Dia 5: [005 - Gerador de Senhas](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/005) 
 
 · Dia 6: [006 - POC do GanhosFuturos](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/006) 
 
-· Dia 7:
+· Dia 7: [007 - Algoritmo dos Anagramas](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/007) 
 
 · Dia 8: 
 
