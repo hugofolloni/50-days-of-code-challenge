@@ -24,7 +24,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 8: [008 - Rock Paper Scissors](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/008) 
 
-· Dia 9: 
+· Dia 9: [009 - Comando para Perfil do League - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/009)
 
 · Dia 10: 
 
