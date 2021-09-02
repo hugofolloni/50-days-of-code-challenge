@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #1c1c1c;;
+    color: #eaeaea;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.hands {
+    padding: 10%;
+    text-align: center;
+    width: 100vw;
+    align-items: center;
+}
+
+.playerChoice {
+    padding: 10%;
+    text-align: center;
+    width: 100vw;
+    height: 30vh;
+    align-items: center;
+}
+
+input[type='submit'] {
+    background-color: white;
+    border-radius: 100px;
+    width: 20%;
+    height: 100%;
+}

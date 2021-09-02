@@ -22,7 +22,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 7: [007 - Algoritmo dos Anagramas](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/007) 
 
-· Dia 8: 
+· Dia 8: [008 - Rock Paper Scissors](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/008) 
 
 · Dia 9: 
 
