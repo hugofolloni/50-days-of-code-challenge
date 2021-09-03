@@ -12,15 +12,19 @@ body {
     flex-direction: column;
     position: relative;
     align-items: center;
-    width: 100vw;
-    height: 100vh;
+    width: 97vw;
+    height: 90vh;
 }
 
-.hands {
-    padding: 10%;
+.handsDiv {
     text-align: center;
     width: 100vw;
-    align-items: center;
+    margin-top: 10vh;
+}
+
+.hand{
+    margin: 5%;
+    font-weight: 700;
 }
 
 .playerChoice {
@@ -31,9 +35,18 @@ body {
     align-items: center;
 }
 
-input[type='submit'] {
+.buttonChoice {
     background-color: white;
     border-radius: 100px;
     width: 20%;
-    height: 100%;
+    height: 5vh;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.buttonChoice:hover{
+    background-color: #1c1c1c;
+    color: #eaeaea;
+    border: 1px solid #eaeaea;
 }
