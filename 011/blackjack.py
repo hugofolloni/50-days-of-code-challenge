@@ -99,5 +99,10 @@ input('Aperte enter para começar!')
 
 getCard()
 
+time.sleep(1)
 
+input("Aperte enter para sair!\n")
 
+time.sleep(0.5)
+
+exit()
