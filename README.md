@@ -28,7 +28,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 10: [010 - Finalização do Comando '.elo' - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/010)
 
-· Dia 11: 
+· Dia 11: [011 - Blackjack](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/011)
 
 · Dia 12: 
 
