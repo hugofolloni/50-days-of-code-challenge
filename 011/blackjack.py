@@ -86,12 +86,27 @@ def dealerGame():
         somaAntigaPlayer = somaPlayer
 
     print(f"A soma do dealer foi {somaDealer}.\n\n")
+
+    time.sleep(1)
+
     if somaPlayer > somaDealer: 
-        print(f"##### VOCÊ GANHOU! #####\n\nSua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}\n\n $$$$$$$$$$$$$$$$$\n\n")
+        print("##### VOCÊ GANHOU! #####\n")
+        time.sleep(0.5)
+        print(f"Sua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}")
+        time.sleep(0.5)
+        print("\n         $$$\n\n")
     if somaPlayer == somaDealer:
-        print(f"##### TEMOS UM EMPATE! #####\n\nSua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}\n\n        ;-;\n\n")
+        print("##### TEMOS UM EMPATE! #####\n")
+        time.sleep(0.5)
+        print(f"Sua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}")
+        time.sleep(0.5)
+        print("\n        ;-;\n\n")
     if somaPlayer < somaDealer:
-        print(f"##### VOCÊ PERDEU! #####\n\nSua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}\n\n         :(\n\n")
+        print("##### VOCÊ PERDEU! #####\n")
+        time.sleep(0.5)
+        print(f"Sua pontuação: {somaPlayer}\nPontuação do dealer: {somaDealer}\n")
+        time.sleep(0.5)
+        print("\n         :(\n\n")
 
 
 print('\n\n-------------\n  BLACKJACK  \n-------------\n\n')
