@@ -32,7 +32,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 12: [012 - Atualizações no To-Do List](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/012)
 
-· Dia 13: 
+· Dia 13: [013 - Condições Climáticas - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/013)
 
 · Dia 14: 
 
