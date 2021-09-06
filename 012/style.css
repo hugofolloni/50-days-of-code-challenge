@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: #D6E1E0;
+}
+
+#name {
+    cursor: pointer;
+}
+
+
+header {
+    color: #08a59d;
+    margin-top: 10vh;
+    text-align: center;
+}
+
+header h2{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.container {
+    margin-top: 10vh;
+    max-width: 70vw;
+    background-color: #08a59d;
+    min-height: 10vh;
+    color: #eaeaea;
+    padding: 2rem;
+    border-radius: 20px;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container label {
+    font-size: 21px;
+    font-weight: 600;
+    
+}
+
+.container input[type='text'] {
+    text-decoration: none;
+    outline: none;
+    background-color: #08a59d;
+    position: relative;
+    border: none;
+    color: #eaeaea;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.container input[type='submit']{
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    background:#eaeaea;
+    border-radius:30px;
+    width: 140px;
+    height: 45px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 0px;
+    border: 2px solid  #1c1c1c;
+    transition: all 0.3s ease;
+    color:  #1c1c1c;
+    cursor :pointer;
+    margin-left: 10vw;
+    margin-top: 5vh;
+}
+
+.container input[type='submit']:hover{
+    background-color: white;
+    color: #1c1c1c;
+}
+
+.underline::before {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 14.8vw;
+    left: 0;
+    background:#eaeaea;
+    margin-left: 50.5vw;
+}
+
+.underline::after {
+    content: '';
+    position: absolute;
+    height: 2.5px;
+    width: 14.8vw;
+    left: 0;
+    background:#D6E1E0;
+    margin-left: 50.5vw;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+
+input:focus ~ .underline::after{
+    transform: scaleX(1);
+}
+
+.fas.fa-check{
+    color: #08a59d;
+}
+
+.fas.fa-check:hover {
+    color: #eaeaea; 
+    cursor: pointer;
+    border: 1px solid #08a59d; 
+    margin-left: -40vw; 
+    padding: 4px;
+    border-radius: 5px; 
+    background-color: #08a59d;
+}
+

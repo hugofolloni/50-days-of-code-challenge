@@ -30,7 +30,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 11: [011 - Blackjack](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/011)
 
-· Dia 12: 
+· Dia 12: [012 - Atualizações no To-Do List](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/012)
 
 · Dia 13: 
 
