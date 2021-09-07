@@ -1,3 +1,5 @@
+const Discord = require('discord.js');
+
 const execute = async (message, args) => {
     if (!args.length) {
         return message.channel.send(`Você não disse valores suficientes, ${message.author}!`);
@@ -12,8 +14,11 @@ const execute = async (message, args) => {
         return response.json();
     })
     .then(data =>{
-        var location = data.location.name + ', ' + data.location.country;
+        var region = data.location.name;
+        var country = data.location.country;
+        var location = region + ', ' + country;
         var localtime = data.location.localtime.split(' ')[1];
+        var today = data.location.localtime
 
         var isDayBinary = data.current.is_day;
         if(isDayBinary == 1){
@@ -22,31 +27,47 @@ const execute = async (message, args) => {
         else if(isDayBinary == 0){
             var isDay = "Está de noite"
         }
-        const today = {
-        currentCondition: data.current.condition.text,
-        icon: data.current.condition.icon,
-        currentTemperature: data.current.temp_c + " °C",
-        currentFeelsLike: data.current.feelslike_c + " °C",
-        currentWindSpeed: data.current.wind_kph + "km/h",
-        currentChanceOfRain: data.forecast.forecastday[0].day.daily_chance_of_rain + "%",
-        }
+        var todayFinder = data.forecast.forecastday[0];
 
-        const tomorrowFinder =  data.forecast.forecastday[1],
+        var currentCondition = data.current.condition.text;
+        var currentIcon = data.current.condition.icon;
+        var currentTemperature = data.current.temp_c + " °C";
+        var currentFeelsLike =  data.current.feelslike_c + " °C";
+        var currentWindSpeed = data.current.wind_kph + "km/h";
+        var currentMinTemperature = todayFinder.day.mintemp_c + " °C";
+        var currentMaxTemperature = todayFinder.day.maxtemp_c + " °C";
+        var currentChanceOfRain = todayFinder.day.daily_chance_of_rain + '%';
+        var currentSunrise = todayFinder.astro.sunrise;
+        var currentSunset = todayFinder.astro.sunset;
 
-        tomorrow = {
-            date = tomorrowFinder.date.split('-').join(' ').reverse(),
-            averageTemperature = tomorrowFinder.day.avgtemp_c + " °C",
-            minTemperature = tomorrowFinder.day.mintemp_c + " °C",
-            maxTemperature = tomorrowFinder.day.maxtemp_c + " °C",
-            chanceOfRain = tomorrowFinder.day.daily_chance_of_rain + '%',
-            condition = tomorrowFinder.day.condition.text,
-            sunrise = tomorrowFinder.astro.sunrise,
-            sunset = tomorrowFinder.astro.sunset
-        }
-        
+        var tomorrowFinder =  data.forecast.forecastday[1];
+    
+        var tomorrowDate = tomorrowFinder.date
+        var tomorrowAverageTemperature = tomorrowFinder.day.avgtemp_c + " °C";
+        var tomorrowMinTemperature = tomorrowFinder.day.mintemp_c + " °C";
+        var tomorrowMaxTemperature = tomorrowFinder.day.maxtemp_c + " °C";
+        var tomorrowChanceOfRain = tomorrowFinder.day.daily_chance_of_rain + '%';
+        var tomorrowCondition = tomorrowFinder.day.condition.text;
+        var tomorrowSunrise = tomorrowFinder.astro.sunrise;
+        var tomorrowSunset = tomorrowFinder.astro.sunset;
 
-        
-        console.log(tomorrow, '\n', tomorrow.chanceOfRain)
+        const embed = new Discord.MessageEmbed()
+                    .setColor('#993399')
+                    .setTitle(`:white_sun_rain_cloud: Condições Climáticas em ${region}`)
+                    .setDescription(`${location}`)
+                    .addFields(
+                            {name: `Dia de hoje: ${today} - ${localtime}`, value:`\n**Situação climática**:\n${currentCondition}\n${isDay}\n**Chance de chuva**: ${currentChanceOfRain}\n**Velocidade do vento:** ${currentWindSpeed}`, inline : true},
+                            {name: '\u200B', value: '\u200B', inline:true },
+                            {name: `Temperaturas`, value:`**Temperatura atual:** ${currentTemperature}\n**Máxima:** ${currentMaxTemperature} - **Mínima:** ${currentMinTemperature}.\n**Sensação térmica**: ${currentFeelsLike}.`, inline : true},
+                        )
+                    .addFields(
+                        {name: `Amanhâ - ${tomorrowDate}`, value:`**Condição climática provável:**\n${tomorrowCondition}\n**Chance de chuva:** ${tomorrowChanceOfRain}.`, inline: true},
+                        {name: '\u200B', value: '\u200B', inline:true},
+                        {name: `Amanhã`, value:`**Máxima:** ${tomorrowMaxTemperature} - **Mínima:** ${tomorrowMinTemperature}.\n**Média:** ${tomorrowAverageTemperature}.`, inline : true},
+                    )
+                    .addField("Amanhecer / Anoitecer", `**Hoje:** ${currentSunrise} - ${currentSunset}\n**Amanhã:** ${tomorrowSunrise} - ${tomorrowSunset}`)
+ 
+                message.channel.send(embed) 
     })
 
 }
