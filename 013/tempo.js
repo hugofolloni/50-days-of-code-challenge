@@ -18,7 +18,7 @@ const execute = async (message, args) => {
         var country = data.location.country;
         var location = region + ', ' + country;
         var localtime = data.location.localtime.split(' ')[1];
-        var today = data.location.localtime
+        var today = data.location.localtime.split(' ')[0].split('-').reverse().join('/')
 
         var isDayBinary = data.current.is_day;
         if(isDayBinary == 1){
@@ -31,6 +31,7 @@ const execute = async (message, args) => {
 
         var currentCondition = data.current.condition.text;
         var currentIcon = data.current.condition.icon;
+        var iconLink = currentIcon.split('').splice(2, (Number(currentIcon.length) - 2)).join('')
         var currentTemperature = data.current.temp_c + " °C";
         var currentFeelsLike =  data.current.feelslike_c + " °C";
         var currentWindSpeed = data.current.wind_kph + "km/h";
@@ -42,7 +43,7 @@ const execute = async (message, args) => {
 
         var tomorrowFinder =  data.forecast.forecastday[1];
     
-        var tomorrowDate = tomorrowFinder.date
+        var tomorrowDate = tomorrowFinder.date.split('-').reverse().join('/')
         var tomorrowAverageTemperature = tomorrowFinder.day.avgtemp_c + " °C";
         var tomorrowMinTemperature = tomorrowFinder.day.mintemp_c + " °C";
         var tomorrowMaxTemperature = tomorrowFinder.day.maxtemp_c + " °C";
@@ -55,18 +56,18 @@ const execute = async (message, args) => {
                     .setColor('#993399')
                     .setTitle(`:white_sun_rain_cloud: Condições Climáticas em ${region}`)
                     .setDescription(`${location}`)
+                    .setThumbnail(`https://${iconLink}`)
                     .addFields(
-                            {name: `Dia de hoje: ${today} - ${localtime}`, value:`\n**Situação climática**:\n${currentCondition}\n${isDay}\n**Chance de chuva**: ${currentChanceOfRain}\n**Velocidade do vento:** ${currentWindSpeed}`, inline : true},
+                            {name: `Hoje — ${today} — ${localtime}`, value:`\n**Situação climática**:\n${currentCondition}.\n**${isDay}.**\n**Chance de chuva:** ${currentChanceOfRain}\n**Velocidade do vento:** ${currentWindSpeed}`, inline : true},
                             {name: '\u200B', value: '\u200B', inline:true },
-                            {name: `Temperaturas`, value:`**Temperatura atual:** ${currentTemperature}\n**Máxima:** ${currentMaxTemperature} - **Mínima:** ${currentMinTemperature}.\n**Sensação térmica**: ${currentFeelsLike}.`, inline : true},
+                            {name: `Temperaturas`, value:`**Temperatura atual:** ${currentTemperature}\n**Sensação térmica:** ${currentFeelsLike}\n**Máxima:** ${currentMaxTemperature} — **Mínima:** ${currentMinTemperature}`, inline : true},
                         )
                     .addFields(
-                        {name: `Amanhâ - ${tomorrowDate}`, value:`**Condição climática provável:**\n${tomorrowCondition}\n**Chance de chuva:** ${tomorrowChanceOfRain}.`, inline: true},
+                        {name: `Amanhâ — ${tomorrowDate}`, value:`**Condição climática provável:**\n${tomorrowCondition}.\n**Chance de chuva:** ${tomorrowChanceOfRain}.`, inline: true},
                         {name: '\u200B', value: '\u200B', inline:true},
-                        {name: `Amanhã`, value:`**Máxima:** ${tomorrowMaxTemperature} - **Mínima:** ${tomorrowMinTemperature}.\n**Média:** ${tomorrowAverageTemperature}.`, inline : true},
+                        {name: `Amanhã`, value:`**Média:** ${tomorrowAverageTemperature}\n**Máxima:** ${tomorrowMaxTemperature} — **Mínima:** ${tomorrowMinTemperature}`, inline : true},
                     )
-                    .addField("Amanhecer / Anoitecer", `**Hoje:** ${currentSunrise} - ${currentSunset}\n**Amanhã:** ${tomorrowSunrise} - ${tomorrowSunset}`)
- 
+                    .addField("Amanhecer — Anoitecer", `**Hoje:** ${currentSunrise} — ${currentSunset}\n**Amanhã:** ${tomorrowSunrise} — ${tomorrowSunset}`)
                 message.channel.send(embed) 
     })
 
