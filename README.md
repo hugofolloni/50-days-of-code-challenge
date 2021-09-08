@@ -1,4 +1,4 @@
-# 100DaysOfCodeChallenge
+# 100-days-of-code-challenge
 A challenge suggested by FreeCodeCamp to develop something for the next 100 days. Wish me luck c:
 
 I have to force myself to code every day, at least one hour, until the end of the year. I will report here every project that I'm working on!
@@ -6,35 +6,35 @@ I have to force myself to code every day, at least one hour, until the end of th
 PS: sometimes I will report this in english, sometimes in portuguese (depends on my mood at the day hahah)
 ## Days:
 
-· Dia 0: [000 - Collatz Conjecture + Caesar Cypher](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/000)
+· Dia 0: [000 - Collatz Conjecture + Caesar Cypher](https://github.com/hugofolloni/100aysOfCodeChallenge/tree/main/000)
 
-· Dia 1: [001 - Start of Twitter Bot](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/001)
+· Dia 1: [001 - Start of Twitter Bot](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/001)
 
-· Dia 2: [002 - Integration of Bot with a Crawler](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/002)
+· Dia 2: [002 - Integration of Bot with a Crawler](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/002)
 
-· Dia 3: [003 - Pi Finder](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/003)
+· Dia 3: [003 - Pi Finder](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/003)
 
-· Dia 4: [004 - Wikipedia Bot](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/004)
+· Dia 4: [004 - Wikipedia Bot](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/004)
 
-· Dia 5: [005 - Strong Password Generator](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/005) 
+· Dia 5: [005 - Strong Password Generator](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/005) 
 
-· Dia 6: [006 - POC of GanhosFuturos](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/006) 
+· Dia 6: [006 - POC of GanhosFuturos](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/006) 
 
-· Dia 7: [007 - Anagram Algorithm](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/007) 
+· Dia 7: [007 - Anagram Algorithm](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/007) 
 
-· Dia 8: [008 - Rock Paper Scissors](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/008) 
+· Dia 8: [008 - Rock Paper Scissors](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/008) 
 
-· Dia 9: [009 - League Profile Command - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/009)
+· Dia 9: [009 - League Profile Command - HeyO](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/009)
 
-· Dia 10: [010 - End of League Profile - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/010)
+· Dia 10: [010 - End of League Profile - HeyO](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/010)
 
-· Dia 11: [011 - Blackjack Game](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/011)
+· Dia 11: [011 - Blackjack Game](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/011)
 
-· Dia 12: [012 - To-Do List Updates](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/012)
+· Dia 12: [012 - To-Do List Updates](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/012)
 
-· Dia 13: [013 - Climate and Forecast - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/013)
+· Dia 13: [013 - Climate and Forecast - HeyO](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/013)
 
-· Dia 14: [014 - Learned "package" variables](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/014)
+· Dia 14: [014 - Learned "package" variables](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/014)
 
 · Dia 15: 
 
