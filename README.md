@@ -34,7 +34,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 13: [013 - Condições Climáticas - HeyO](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/013)
 
-· Dia 14: 
+· Dia 14: [014 - Learned "package" variables](https://github.com/hugofolloni/100DaysOfCodeChallenge/tree/main/014)
 
 · Dia 15: 
 
