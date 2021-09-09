@@ -36,7 +36,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 14: [014 - Learned "package" variables](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/014)
 
-· Dia 15: 
+· Dia 15: [015 - Created Blackjack command - HeyO](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/015)
 
 · Dia 16: 
 
