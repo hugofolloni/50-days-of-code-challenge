@@ -38,7 +38,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 15: [015 - Created Blackjack command - HeyO](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/015)
 
-· Dia 16: 
+· Dia 16: [016 - My first React App - Toggle Light/Dark theme](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/016)
 
 · Dia 17:
 
