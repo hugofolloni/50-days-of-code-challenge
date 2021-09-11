@@ -42,7 +42,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 17: [017 - React Blog](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/017)
 
-· Dia 18:
+· Dia 18: [017 - Start the React To-do List](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/018)
 
 · Dia 19:
 

@@ -1,0 +1,25 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.singular-text {
+  width: 100%;
+  height: 100%;
+  background-color: #eaeaea;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.dateLabel{
+  font-size: 10px;
+}
