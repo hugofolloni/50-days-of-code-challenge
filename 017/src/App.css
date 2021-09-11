@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{ 
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: 1%;
+  max-width: 100%;
+}
+
+.mainContent {
+  margin-top: 3%;
+}
+
+.mainContent h2 {
+  margin-bottom: 10px;
+}
+
+.text{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 23.5%;
+  text-align: start;
+}
+
+.singular-text {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #eaeaea;
+  border-radius: 10px;
+  width: 100%;
+}
+
+
+.singular-text h2 {
+  font-size: 20px;
+  color: #8e2de2;
+  margin-bottom: 8px;
+}
+
+.singular-text .author-name p {
+  font-size: 12px;
+}
+
+.header-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.header-content a {
+  color: #4a00e0;
+  text-decoration: none;
+}
+
+.header-content .createBlogButton {
+  background-color: #4a00e0;
+  color: #eaeaea;
+  font-weight: 700;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.header-content .createBlogButton:hover{
+  background-color: #8e2de2;
+}
+
+
+.buttonMain  {
+  background-color: #4a00e0;
+  color: #eaeaea;
+  font-weight: 700;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0.5px solid black;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 10px;
+}
+
+.buttonMain:hover{
+  background-color: #8e2de2;
+}
+
+.buttonsContent {
+  margin-top: 20px;
+}
+
+.ordinaryButton {
+  background-color: #4a00e0;
+  color: #eaeaea;
+  font-weight: 700;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-right: 10px;
+  border: none;
+  color: #4a00e0;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.buttonsHeader .ordinaryButton:hover{
+ color: #4a00e0;
+}
+
+.heading{
+  color: #8e2de2;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 30%;
+}
+
+.aboutMe{
+  margin-top: 3%;
+  text-align: start;
+  margin-left: 25%;
+}
+
+.aboutMe a{
+  text-decoration: none;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create h2{
+  margin: 40px 0 30px -100%; 
+  color: #4a00e0;
+}
+
+.create label {
+  text-align: center;
+  display: block;
+  color: #8e2de2;
+  font-weight: 600;
+  margin-left: -60%;
+}
+
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+  outline: none;
+}
+
+.create input:focus, .create textarea:focus, .create select:focus{
+  border: 2px solid #4a00e0;
+}
+
+.create button {
+  background-color: #4a00e0;
+  color: #eaeaea;
+  border: 0;
+  padding: 8px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.create button:hover{
+  background-color: #8e2de2;
+}
+
+.topPost {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.topPost button {
+  margin-left: 60%;
+  background-color: rgb(233, 111, 111);
+  width: 40px;
+  height: 40px;
+  color: #eaeaea;
+  border-radius: 12px;
+  border: none;
+  padding: 2px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.topPost button:hover {
+  background-color: rgb(238, 135, 135);
+}

@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to my Blog!",
+      "content": "This is my first project with React!",
+      "author": "Hugo Folloni",
+      "id": 1
+    }
+  ]
+}

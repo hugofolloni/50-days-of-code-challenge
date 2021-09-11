@@ -40,7 +40,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 16: [016 - My first React App - Toggle Light/Dark theme](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/016)
 
-· Dia 17:
+· Dia 17: [017 - React Blog](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/017)
 
 · Dia 18:
 
