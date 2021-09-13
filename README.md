@@ -46,7 +46,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 19: [019 - Fibonacci Finder](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/019)
 
-· Dia 20:
+· Dia 20: [020 - New commands to CS UFRJ Discord Bot](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/020)
 
 · Dia 21: 
 
