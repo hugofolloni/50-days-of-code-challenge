@@ -48,7 +48,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 20: [020 - New commands to CS UFRJ Discord Bot](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/020)
 
-· Dia 21: 
+· Dia 21: [021 - 404 Error - React Blog](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/021)
 
 · Dia 22: 
 
