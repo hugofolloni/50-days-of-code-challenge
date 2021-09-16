@@ -50,7 +50,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 21: [021 - 404 Error - React Blog](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/021)
 
-· Dia 22: 
+· Dia 22: [022 - LocalStorage Click Game](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/022)
 
 · Dia 23: 
 
