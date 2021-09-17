@@ -54,7 +54,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 23: [023 - Restart the To-Do-List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/023)
 
-· Dia 24: 
+· Dia 24: [024 - Pomodoro Timer to To-Do-List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/024)
 
 · Dia 25: 
 
