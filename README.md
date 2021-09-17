@@ -52,7 +52,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 22: [022 - LocalStorage Click Game](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/022)
 
-· Dia 23: 
+· Dia 23: [023 - Restart the To-Do-List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/023)
 
 · Dia 24: 
 
