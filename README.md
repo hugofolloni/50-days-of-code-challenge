@@ -56,7 +56,8 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 24: [024 - Pomodoro Timer to To-Do-List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/024)
 
-· Dia 25: 
+· Dia 25: [025 - Start the memory game with C](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/025)
+
 
 · Dia 26: 
 
