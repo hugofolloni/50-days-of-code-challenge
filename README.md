@@ -61,7 +61,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 26: [026 - Continue the memory game with C](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/026)
 
-· Dia 27:
+· Dia 27: [027 - Homepage - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/027)
 
 · Dia 28: 
 
