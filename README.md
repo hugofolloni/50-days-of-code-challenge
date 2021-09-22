@@ -63,7 +63,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 27: [027 - Homepage - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/027)
 
-· Dia 28: 
+· Dia 28: [028 - Task Page - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/028)
 
 · Dia 29:
 
