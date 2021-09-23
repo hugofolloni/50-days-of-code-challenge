@@ -65,7 +65,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 28: [028 - Task Page - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/028)
 
-· Dia 29:
+· Dia 29: [029 - Pomodoro inside the Task Page posting to JSON - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/029)
 
 · Dia 30: 
 
