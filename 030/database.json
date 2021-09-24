@@ -1,0 +1,25 @@
+{
+  "toDos": [
+    {
+      "action": "Adicionar complete",
+      "description": "Devo adicionar uma forma de mostrar a tarefa como concluída. Pretendo fazer isso da seguinte forma: \n-dividirei a array toDos em duas, sendo que em uma delas terei as tarefas completas. Quando eu clicar em completar, vou excluir a tarefa da array de toDo e darei POST na array de completed!",
+      "deadline": "23/09/2021",
+      "isCompleted": "To do!",
+      "id": 1
+    }
+  ],
+  "pomodoros": [
+    {
+      "description": "Bater de cabeça na parede",
+      "action": "Adicionar complete",
+      "dia": "24/9",
+      "id": 1
+    },
+    {
+      "description": "Agora eu vou conseguir botar as tarefas realizadas lá no coisinha, pra funfa ra coisa e o treco ficar mec!",
+      "action": "Adicionar complete",
+      "dia": "24/9",
+      "id": 2
+    }
+  ]
+}

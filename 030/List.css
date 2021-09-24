@@ -1,0 +1,60 @@
+.singular-text{
+    margin-top: 3vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(83, 80, 80);
+    border-radius: 15px;
+    justify-content: flex-start;
+    padding: 10px;
+    cursor: auto;
+}
+
+.singular-text a {
+    text-decoration: none;
+    color: #eaeaea;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+
+}
+.mainAction{
+    font-size: 25px;
+    margin-left: 5%;
+    font-weight: 700;
+    color :#713ed8;
+    display: flex;
+    justify-content: space-between;
+    width: 45vw;
+    margin-bottom: 10px;
+}
+
+.deadline{
+    font-size: 12px;
+    margin-left: 10%;
+}
+
+.button{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #713ed8;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    color:#eaeaea;
+    cursor: pointer;
+    transition: 0.3s ease all;
+    font-weight: 600;
+}
+
+.button:hover{
+    background-color: #4e1bb4;
+}
+
+.buttons{
+    display: flex;
+    width: 12vw;
+    justify-content: space-around;
+}
