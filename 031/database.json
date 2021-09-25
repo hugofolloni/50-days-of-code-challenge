@@ -1,0 +1,32 @@
+{
+  "toDos": [
+    {
+      "action": "Casa do Braga",
+      "description": "Devemos construir a casa do Braga no Minecraft, afinal, ele ainda mora no projeto TAMAR",
+      "deadline": "25/09/2021",
+      "isCompleted": "To do!",
+      "id": 1
+    }
+  ],
+  "pomodoros": [
+    {
+      "description": "Pegar as madeiras",
+      "action": "Casa do Braga",
+      "dia": "25/9",
+      "id": 1
+    }
+  ],
+  "completedTasks": [
+    {
+      "toDos": {
+        "action": "Entregar esse projeto",
+        "description": "Após 5 dias fazendo este projeto, ele está pronto e devo postar no github.",
+        "deadline": "24/09/2021",
+        "isCompleted": "To do!",
+        "id": 2
+      },
+      "dia": "25/09/2021",
+      "id": 1
+    }
+  ]
+}
