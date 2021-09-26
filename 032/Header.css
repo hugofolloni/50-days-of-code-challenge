@@ -1,0 +1,79 @@
+.headerDiv {
+    margin-top: 3vh;
+    display: flex;
+    width: 100vw;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+.headerDiv h2{
+  color: #713ed8;
+  font-size: 40px;
+}
+
+.headerDiv .purpleButton{
+  background-color: #713ed8;
+  border-radius: 10px;
+  padding: 15px;
+  text-decoration: none;
+  color: #eaeaea;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  transition: 0.3s ease all;
+}
+
+.headerDiv .purpleButton:hover{
+  background-color: #4e1bb4;
+}
+
+.headerDiv {
+  margin-top: 3vh;
+  display: flex;
+  width: 100vw;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.headerDiv h2{
+  color: #713ed8;
+  font-size: 40px;
+}
+
+.purpleButton{
+  background-color: #4e1bb4;
+  border-radius: 10px;
+  padding: 15px;
+  text-decoration: none;
+  color: #eaeaea;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  transition: 0.3s ease all;
+  border: none;
+  height: 100%;
+}
+
+
+.whiteButton {
+  background-color: #eaeaea;
+  border-radius: 10px;
+  padding: 15px;
+  text-decoration: none;
+  color: #713ed8;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  transition: 0.3s ease all;
+}
+
+.whiteButton:hover{
+  background-color: #d1d1d1;
+}
+
+.buttonsOnHeader{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 25vw;
+}

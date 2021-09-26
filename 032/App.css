@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.home {
+  margin-left: 25vw;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10vh;
+}
+
+.tasksDiv{
+  display: flex;
+  flex-direction: row;
+  width: 50vw;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.purpleButton{
+  font-weight: 700;
+  color: red;
+}

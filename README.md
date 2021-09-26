@@ -69,9 +69,9 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 30: [030 - Last Pomodoros Page - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/030)
 
-· Dia 31: [031 - CompletedTasks and Finishing the project - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/030)
+· Dia 31: [031 - CompletedTasks and Finishing the project - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/031)
 
-· Dia 32: 
+· Dia 32: [031 - Toggle Light/Dark Mode - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/032)
 
 · Dia 33: 
 
