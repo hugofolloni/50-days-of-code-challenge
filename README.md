@@ -73,7 +73,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 32: [032 - Toggle Light/Dark Mode - To-Do List w/ React](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/032)
 
-· Dia 33: 
+· Dia 33: [033 - Starting the 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/033)
 
 · Dia 34: 
 
