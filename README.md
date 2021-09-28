@@ -75,7 +75,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 33: [033 - Starting the 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/033)
 
-· Dia 34: 
+· Dia 34: [034 - Search function - 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/034)
 
 · Dia 35: 
 
