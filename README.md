@@ -79,7 +79,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 35: [035 - Skycons added - 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/035)
 
-· Dia 36: 
+· Dia 36: [036 - Landing Page with nodemailer - React + Node](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/036)
 
 · Dia 37:
 
