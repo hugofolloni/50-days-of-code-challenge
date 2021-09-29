@@ -77,7 +77,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 34: [034 - Search function - 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/034)
 
-· Dia 35: 
+· Dia 35: [035 - Skycons added - 'react-city-weather'](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/035)
 
 · Dia 36: 
 
