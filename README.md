@@ -83,7 +83,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 37: [037 - Sending emails getting data from API - React + Node](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/037)
 
-· Dia 38: 
+· Dia 38: [038 - Started my portfolio-website](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/038)
 
 · Dia 39:
 

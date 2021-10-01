@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-image: radial-gradient(circle , rgb(248, 247, 247), #eaeaea);
+}
+
+.header  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 9vh;
+    align-items: center;
+    background-color: white;
+    width: 100vw;
+}
+
+.header .left h3 {
+    color: #8063ff;
+}
+
+
+.header .right {
+    width: 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header .right a {
+    text-decoration: none;
+    color: #1c1c1c;
+    transition: 0.3s ease-in-out all;
+}
+
+.header .right a:hover{
+    color: #5b3be9;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+    padding-top: 6vh;
+    background-color: white;
+}
+
+.home .left {
+    width: 30vw;
+    padding: 40px;
+    padding-top: 4vh;
+    margin-left: 10vw;
+}
+
+.home .title {
+    color: #28196b;
+    font-size: 32px;
+    margin-left: 3%;
+}
+
+.home  .description h3 {
+    color: #140b2b;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 2vh;
+}
+
+.home  .button-hire-me button {
+    background-color: #8063ff;
+    border: none;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    border-radius: 6px;
+    margin-top: 3vh;
+    color: #eaeaea;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+
+.home .button-hire-me button:hover{
+    background-color: #5b3be9;
+    letter-spacing: 0.5px;
+}
+
+.home .right{
+    display: flex;
+    width: 50vw;
+}
+
+.profile-pic{
+    position: relative;
+    z-index: 0;
+}
+
+.home .profile-pic img{
+    width: 30vw;
+    border-radius: 50%;
+    margin: 0% 10%;
+}
+
+.home .background-circle {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    margin-left: -46.05vw;
+    margin-top: -47.25vw;
+    background: #5b3be9;
+    clip-path: circle(40% at 90% 100%);
+    z-index: -1;
+}
