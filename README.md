@@ -1,10 +1,11 @@
 # 100-days-of-code-challenge
+## 📖 About this project 
 A challenge suggested by FreeCodeCamp to develop something for the next 100 days. Wish me luck c:
 
 I have to force myself to code every day, at least one hour, until the end of the year. I will report here every project that I'm working on!
 
 PS: sometimes I will report this in english, sometimes in portuguese (depends on my mood at the day hahah)
-## Days:
+## 📆 Days:
 
 · Dia 0: [000 - Collatz Conjecture + Caesar Cypher](https://github.com/hugofolloni/100aysOfCodeChallenge/tree/main/000)
 
