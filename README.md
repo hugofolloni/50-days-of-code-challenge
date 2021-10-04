@@ -88,7 +88,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 39: [039 - Updating READMEs](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/039)
 
-· Dia 40: 
+· Dia 40: [040 - Changes on portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/040)
 
 · Dia 41: 
 

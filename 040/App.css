@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+html {
+    overflow-x: hidden;
+  }
+
+body {
+    background-image: radial-gradient(circle , rgb(248, 247, 247), #eaeaea);
+}
+
+.header  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 9vh;
+    align-items: center;
+    background-color: white;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+.header .left h3 {
+    color: #8063ff;
+}
+
+
+.header .right {
+    width: 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header .right a {
+    text-decoration: none;
+    color: #1c1c1c;
+    transition: 0.3s ease-in-out all;
+}
+
+.header .right a:hover{
+    color: #5b3be9;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.home {
+    display: flex;
+    flex-direction: row;
+    padding-top: 6vh;
+    background-color: white;
+}
+
+.home .left {
+    width: 30vw;
+    padding: 40px;
+    padding-top: 4vh;
+    margin-left: 10vw;
+}
+
+.home .title {
+    color: #28196b;
+    font-size: 32px;
+    margin-left: 3%;
+}
+
+.home  .description h3 {
+    color: #140b2b;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 2vh;
+}
+
+.home  .button-hire-me button {
+    background-color: #8063ff;
+    border: none;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    border-radius: 6px;
+    margin-top: 3vh;
+    color: #eaeaea;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+
+.home .button-hire-me button:hover{
+    background-color: #5b3be9;
+    letter-spacing: 0.5px;
+}
+
+.home .right{
+    display: flex;
+    width: 50vw;
+}
+
+.profile-pic{
+    position: relative;
+    z-index: 0;
+}
+
+.home .links-home {
+    width: 20vw;
+    margin-left: 25vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.home .profile-pic img{
+    width: 30vw;
+    border-radius: 50%;
+    margin: 0% 10%;    
+    margin-top: 3vh;
+}
+
+.home .links-home img {
+    border-radius: 0%;
+    width: 2vw;
+    filter: invert(100%) sepia(5%) saturate(1151%) hue-rotate(259deg) brightness(113%) contrast(84%);
+    transition: 0.3s ease all;
+}
+
+.home .links-home img:hover {
+    filter: invert(0%) sepia(2%) saturate(3091%) hue-rotate(340deg) brightness(99%) contrast(78%);
+}
+
+.home .background-circle {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    margin-left: -47vw;
+    margin-top: -47.25vw;
+    background: #5b3be9;
+    clip-path: circle(40% at 90% 100%);
+    z-index: -1;
+}
+
+.content {
+    margin: 5vw 7vw;
+    padding: 3vw;
+    width: 80vw;
+    background-color: white;
+    border-radius: 2vw;
+}
+
+.content .title {
+    color:#5b3be9;
+    margin-bottom: 2vh;
+    margin-left: 15px;
+}
+
+.aboutme-content .infos-about-me {
+    font-weight: 400;
+}
+
+.skills-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-content h4 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.content-list {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.content-item {
+    display: flex;
+    flex-direction: column;
+    width: 80px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    transition: 0.3s ease all;
+    cursor: pointer;
+}
+
+.content-item:hover {
+    filter: invert(22%) sepia(99%) saturate(3875%) hue-rotate(248deg) brightness(93%) contrast(96%);
+    font-weight: 700;
+}
+
+.content-item img {
+    width: 20px;
+    justify-content: center;
+}
+
+.soft-skills-label {
+    margin-top: 6vh;
+}
