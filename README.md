@@ -90,7 +90,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 40: [040 - Changes on portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/040)
 
-· Dia 41: 
+· Dia 41: [041 - Works an Contact on portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/041)
 
 · Dia 42: 
 
