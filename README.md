@@ -7,7 +7,7 @@ I have to force myself to code every day, at least one hour, until the end of th
 PS: sometimes I will report this in english, sometimes in portuguese (depends on my mood at the day hahah)
 ## 📆 Days
 
-· Dia 0: [000 - Collatz Conjecture + Caesar Cypher](https://github.com/hugofolloni/100aysOfCodeChallenge/tree/main/000)
+· Dia 0: [000 - Collatz Conjecture + Caesar Cypher](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/000)
 
 · Dia 1: [001 - Start of Twitter Bot](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/001)
 
