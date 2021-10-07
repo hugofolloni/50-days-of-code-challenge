@@ -94,7 +94,7 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 42: [042 - Translate hugofolloni-portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/042)
 
-· Dia 43: 
+· Dia 43: [043 - Hacktoberfest PRs](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/043)
 
 · Dia 44: 
 
