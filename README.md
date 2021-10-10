@@ -96,11 +96,11 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 43: [043 - Hacktoberfest PRs](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/043)
 
-· Dia 44: 
+· Dia 44: [044 - Hacktoberfest PRs](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/044)
 
-· Dia 45: 
+· Dia 45: [045 - Hacktoberfest PRs](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/045)
 
-· Dia 46: 
+· Dia 46: [046 - README Changes](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/046)
 
 · Dia 47:
 
