@@ -102,9 +102,9 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 46: [046 - README Changes](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/046)
 
-· Dia 47:
+· Dia 47: [047 - Small Changes on C-Projects](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/047)
 
-· Dia 48: 
+· Dia 48: [048 - Comp1 Final project](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/048)
 
 · Dia 49: 
 
