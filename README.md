@@ -106,9 +106,9 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 48: [048 - Comp1 Final project](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/048)
 
-· Dia 49: 
+· Dia 49: [049 - "apps-aleatorios-em-C" updates](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/049)
 
-· Dia 50: 
+· Dia 50: [050 - Dark Theme and Responsive hugofolloni-portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/050)
 
 · Dia 51: 
 
