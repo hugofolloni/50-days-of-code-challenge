@@ -110,21 +110,21 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 50: [050 - Dark Theme and Responsive hugofolloni-portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/050)
 
-· Dia 51: 
+· Dia 51: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 52: 
+· Dia 52: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 53: 
+· Dia 53: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 54: 
+· Dia 54: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 55: 
+· Dia 55: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 56: 
+· Dia 56: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 57:
+· Dia 57: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
-· Dia 58:
+· Dia 58: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
 
 · Dia 59: 
 
