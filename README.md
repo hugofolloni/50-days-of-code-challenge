@@ -1,6 +1,6 @@
-# 100-days-of-code-challenge
+# 50-days-of-code-challenge
 ## 📖 About this project 
-A challenge suggested by FreeCodeCamp to develop something for the next 100 days. Wish me luck c:
+A challenge suggested by FreeCodeCamp to develop something for the next 50 days. Wish me luck c:
 
 I have to force myself to code every day, at least one hour, until the end of the year. I will report here every project that I'm working on!
 
@@ -110,117 +110,6 @@ PS: sometimes I will report this in english, sometimes in portuguese (depends on
 
 · Dia 50: [050 - Dark Theme and Responsive hugofolloni-portfolio](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/050)
 
-· Dia 51: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
+## 🎯 Ending
 
-· Dia 52: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 53: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 54: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 55: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 56: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 57: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 58: [051 - 058 - Break Time for college](https://github.com/hugofolloni/100-days-of-code-challenge/tree/main/051-058)
-
-· Dia 59: 
-
-· Dia 60: 
-
-· Dia 61: 
-
-· Dia 62: 
-
-· Dia 63: 
-
-· Dia 64: 
-
-· Dia 65: 
-
-· Dia 66: 
-
-· Dia 67:
-
-· Dia 68: 
-
-· Dia 69:
-
-· Dia 70:
-
-· Dia 71: 
-
-· Dia 72: 
-
-· Dia 73: 
-
-· Dia 74: 
-
-· Dia 75: 
-
-· Dia 76: 
-
-· Dia 77:
-
-· Dia 78: 
-
-· Dia 79:
-
-· Dia 80: 
-
-· Dia 81: 
-
-· Dia 82: 
-
-· Dia 83: 
-
-· Dia 84: 
-
-· Dia 85: 
-
-· Dia 86: 
-
-· Dia 87:
-
-· Dia 88:
-
-· Dia 89: 
-
-· Dia 90: 
-
-· Dia 91: 
-
-· Dia 92: 
-
-· Dia 93: 
-
-· Dia 94: 
-
-· Dia 95: 
-
-· Dia 96: 
-
-· Dia 97:
-
-· Dia 98: 
-
-· Dia 99:
-
-· Dia 100: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In the end of this project, I've learned a lot about code routine and how to create projects and work with different jobs at the same time. Unfortunately, some problems kept me away from coding and I decided to make this 100days just 50days. I had a great time doing this and I hope that you could also see my progress doing this!
